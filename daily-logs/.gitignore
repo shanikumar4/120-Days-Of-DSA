@@ -1,0 +1,26 @@
+# Compiled executables
+*.exe
+*.out
+*.o
+*.obj
+
+# Output folder
+output/
+
+# VS Code
+.vscode/
+
+# Build folders
+build/
+dist/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# OS files
+.DS_Store
+Thumbs.db
