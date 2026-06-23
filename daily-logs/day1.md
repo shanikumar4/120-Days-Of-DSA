@@ -1,4 +1,4 @@
-## Starting DSA from Pattern Printing 
+# Starting DSA from Pattern Printing 
 
 Today I started  *#120DaysOfDSA* journey.
 
