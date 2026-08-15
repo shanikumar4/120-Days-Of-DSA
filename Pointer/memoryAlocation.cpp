@@ -30,5 +30,5 @@ int main(){
     //delete keyword is used to free the memory allocated by new operator
     delete ptr;
     delete ptr1;
-    delete[] ptr2;
+    delete[] ptr3;
 }
