@@ -1,11 +1,11 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-int subset(int arr[], int index, int n, int sum){
+int subset(int arr[], int index, int m, int sum){
 
     if(sum==0)
     return 1;
-    if(index==n ||sum<0)
+    if(index==m ||sum<0)
     return 0;
 
 
